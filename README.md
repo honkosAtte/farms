@@ -1,3 +1,2 @@
 # farms
-A small full stack exercise with Clojure(script). 
-Test
+A small full stack exercise with Clojure(script).
